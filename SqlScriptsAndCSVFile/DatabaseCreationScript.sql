@@ -1,0 +1,6 @@
+﻿---- DATABASE CREATION SCRIPT
+
+
+USE [master]
+GO
+CREATE DATABASE [CustomerDetails];
